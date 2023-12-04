@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarinaTakalloo
-- 👀 I’m interested in NLP, Social Media Analysis and Computer Vision area.
-- 🌱 I’m currently learning about so many stuff such as Image Geolocalization for an academic project and also I am eager to learn more about working with data.
+- 👀 I’m interested in NLP, and Data Analysis.
+- 🌱 I’m currently learning about Image Processing and Computer Vision.
 - 💞️ I’m looking to collaborate on different aspects of ML and DL.
 - 📫 How to reach me: sarina.takalloo@studenti.polito.it
 
